@@ -21,6 +21,7 @@
 // xxxx.xxxx = helloSpeaker;
 
 
+
 (function(window) {
 	var speak_Word = "Hello";
 	var hello_Speakers = function (name) {
